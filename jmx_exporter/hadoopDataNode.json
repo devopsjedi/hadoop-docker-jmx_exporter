@@ -1,0 +1,6 @@
+{
+    "hostPort": "localhost:8006",
+    "rules": [
+      {"pattern": ".*"},
+    ]
+}
